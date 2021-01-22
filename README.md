@@ -11,7 +11,7 @@ I wanted to make something so people can understand a little bit about who I am 
 * I've been PC gaming since I was 7 (almost 30 years!).
 * I have developed moderate anxiety since 2016. It is mostly activated when I feel a sense of loss of control.
 * Urban biking is one of my favourite pass times.
-* I've been consulting since 2010 with short stints with startups.
+* I've been consulting since 2010 with some stints in early startups.
 * I'm allergic to pretty much all animals and the entire outdoors.
 * I really enjoy [amateur radio](https://www.qrz.com/db/VA3JEV) and I'm now talking to people around the world with Morse code.
 
