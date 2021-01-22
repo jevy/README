@@ -27,9 +27,7 @@ I wanted to make something so people can understand a little bit about who I am 
 
 ## Things that take my energy away
 
-**Gossip** is one of my biggest triggers. I dedicated a [whole section](#gossip) on this below. 
-
-**Wasting my time** really demotivates me. I really try hard to be smart with time and energy. 
+* **Wasting my time** really demotivates me. I really try hard to be smart with time and energy. 
 
 ## What energizes me
 
@@ -64,21 +62,6 @@ If you're a manager or employee I'll be overseeing, [please read this article, e
 * You are welcome to ask me whatever you want. I'll let you know if it's not something I'm comfortable talking about and why.
 * In general, I default towards transparency, but sometimes there are things that I'm not able to share.
 * Integrity is important to me both personally and professionally. While there may be things I'm mistaken about or can't share I will do my utmost to present to you truth as I know it.
-
-## Gossip
-
-> Gossip can essentially be defined as information passed from one individual (originator) to another (gossiper) about an absent third individual (victim)"`[^1] 
-
-I think it's fair to explain **why this bothers me so much**: In one of my companies, I had found out that two of my co-founders took exception to something I had said something all the while telling me everything was fine. They had MULTIPLE meetings about it between themselves and with OTHER individuals (members of our board). After 3 months, I heard from one of the OTHER people they took issue with my position. I met with the two individuals separately to understand their actual perspective and explained my perspective which resolved everything in person. I felt our relationship was so undermined, I threatened to leave if it happened again. It did, and it was part of my leaving. **I never want this to happen to people I work with.**
-
-Some of the hardest parts of life are related to issues an individual has with another individual. It certainly is for me and it probably is for you. What is typically not helpful is going around to other gossipers in your social circle/organization to share your grievances to drum up support for your cause and (un)intentionally turn people away from the victim. This is unfair to the victim and is never fair[^2]. 
-
-Instead, take that energy and figure out how to have a conversation with that individual to resolve it healthily. It's easier said than done for sure. If I find out that there is gossip within my sphere of responsibility: 
-
-1. I will approach the originator, try to understand why they haven't contacted the gossiper and help them come up with an action plan for them to talk about it.
-2. If it still hasn't been resolved a more direct approach will have to be undertaken.
-
-
 
 
 [^1]: https://www.researchgate.net/publication/281452089_Gossip_in_Organizations
