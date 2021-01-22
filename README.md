@@ -29,6 +29,8 @@ I wanted to make something so people can understand a little bit about who I am 
 
 * **Wasting my time** really demotivates me. I really try hard to be smart with time and energy. 
 
+* **Not having a plan** - When I don't know where I am and where I'm going, I get stressed. Having a clear plan on steps to move forward, no matter how abstract bring me focus.
+
 ## What energizes me
 
 * I really love positive and negative feedback. As a data person, it's really one of the best ways to know how I'm doing as a manager and employee. Give me as much feedback as you can.
@@ -37,7 +39,7 @@ I wanted to make something so people can understand a little bit about who I am 
 
 * Having a plan to get unstuck.
 
-* Having clear stated expectations of me from both by direct reports and my supervisor.
+* Building clear stated expectations of me from both by direct reports and my supervisor.
 
 * Metrics so we know how to improve.
 
