@@ -8,6 +8,7 @@ I wanted to make something so people can understand a little bit about who I am 
 
 * I'm born on Christmas day.
 * I have 3 kids and a wife.
+* I regularly host [House Concerts for the neighbourhood (video)](https://fb.watch/3KekGIjEpU/)
 * I've been PC gaming since I was 7 (almost 30 years!).
 * I have developed moderate anxiety since 2016. It is mostly activated when I feel a sense of loss of control.
 * Urban biking is one of my favourite pass times.
