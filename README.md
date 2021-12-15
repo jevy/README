@@ -7,24 +7,26 @@ I wanted to make something so people can understand a little bit about who I am 
 ## A few random things about me
 
 * I'm born on Christmas day.
-* I have 3 kids and a wife.
-* I regularly host [House Concerts for the neighbourhood (video)](https://fb.watch/3KekGIjEpU/)
-* I've been PC gaming since I was 7 (almost 30 years!).
+* I have 3 kids and I'm married to a lovely gal (Ashley)
+* I regularly host [House Concerts for the neighbourhood (video)](https://fb.watch/3KekGIjEpU/) (pre-Covid)
+* I've been PC gaming since I was 7 (32 years!).
 * I have developed moderate anxiety since 2016. It is mostly activated when I feel a sense of loss of control.
+* I discovered in Sept 2021 that I also have ADHD which was the root of my anxiety this whole time. My medication has been life changing
 * Urban biking is one of my favourite pass times.
-* I've been consulting since 2010 with some stints in early startups.
+* I've been consulting since 2010 with some stints in early startups (employee or cofounder).
 * I'm allergic to pretty much all animals and the entire outdoors.
 * I really enjoy [amateur radio](https://www.qrz.com/db/VA3JEV) and I'm now talking to people around the world with Morse code.
+* I'm pretty geeky: I run Linux NixOS on my personal machine and have a Kubernetes Homelab with 7 PIs and 1 PC. 
 
 ## How I approach work
 
 **Results focused** - I don't really care when or how people work. The most important thing is that the right work is getting done. I've worked remotely with teams all over the world and for the most part, it has worked out super well. To do this we need to be organized, have excellent lines of communications where everyone can work asynchronously.
 
-**Work/Life Balance** - Working too much makes you less productive. [ This is a great article ](https://getlighthouse.com/blog/work-life-balance-hustle-hype/) that really resonates with me (studies included).
+**Work/Life Balance** - Working too much makes you less productive. [ This is a great article ](https://getlighthouse.com/blog/work-life-balance-hustle-hype/) that really resonates with me (studies included). 
 
-**Working smart.. and hard** - It's easy to stay busy and grind out work. Taking a step back and think about what can be done to work smarter can sometimes go REALLY far. For example: Instead of labeling 1000s of images yourself, hiring people on Mechanical Turk is an excellent use of time and money.
+**Working smart.. and hard** - It's easy to stay busy and grind out work. Taking a step back and think about what can be done to work smarter can sometimes go REALLY far. For example: Instead of labeling 1000s of images yourself, hiring people on Mechanical Turk is an excellent use of time and money. I'm committed to prioritizing and cutting scope ruthlessly to keep us sustainable.
 
-**Keep on Shipping** - I generally think of putting something in the wild and measuring the results will almost always be better than over planning. We should always be asking the question: "Is this good enough?"
+**Keep on Shipping** - I generally think that  putting something in the wild and measuring the results will almost always be better than over planning. We should always be asking the question: "Is this good enough for now?"
 
 ## Things that take my energy away
 
