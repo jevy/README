@@ -1,6 +1,10 @@
 # Jevin's README for colleagues
 
-I wanted to make something so people can understand a little bit about who I am and how I like to work. It's a living document that I'll update as I learn a) more about myself and b) things I should communicate to others.
+I used to be a big fan of READMEs. The idea sounds great: make a doc so other people can understand you and work with you the way you want.
+
+I've grown to find that this isn't true. My README is very much an idealized and biased view of myself so take this all with a grain of salt.
+
+The "Random things about me" below is the only thing you can really trust. :D :D 
 
 ![](me.jpg)
 
@@ -18,6 +22,12 @@ I wanted to make something so people can understand a little bit about who I am 
 * I really enjoy [amateur radio](https://www.qrz.com/db/VA3JEV) and I'm now talking to people around the world with Morse code.
 * I'm pretty geeky: I run Linux NixOS on my personal machine and have a Kubernetes Homelab with 7 PIs and 1 PC. 
 
+
+## Overall Themes
+
+* Strong relationships can carry me through anything. I invest heavily into them since these seem to outlast most companies.
+* Creating less stress. Candor, end to end tests, planning these all create situations of lowering stress. I don't like stress and I think most people don't? So ya know, how can we reduce stress?
+
 ## How I approach work
 
 **Results focused** - I don't really care when or how people work. The most important thing is that the right work is getting done. I've worked remotely with teams all over the world and for the most part, it has worked out super well. To do this we need to be organized, have excellent lines of communications where everyone can work asynchronously.
@@ -30,7 +40,7 @@ I wanted to make something so people can understand a little bit about who I am 
 
 ## Things that take my energy away
 
-* **Wasting my time** really demotivates me. I really try hard to be smart with time and energy. 
+* **When I feel like I'm not making an impact** drains my energy like nothing else. I'm always hunting to figure out how to make the best use of my time.
 
 * **Not having a plan** - When I don't know where I am and where I'm going, I get stressed. Having a clear plan on steps to move forward, no matter how abstract bring me focus.
 
