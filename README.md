@@ -19,7 +19,8 @@ The "Random things about me" below is the only thing you can really trust. :D :D
 * I've been consulting since 2010 with some stints in early startups (employee or cofounder).
 * I'm allergic to pretty much all animals and the entire outdoors.
 * I really enjoy [amateur radio](https://www.qrz.com/db/VA3JEV) and I'm now talking to people around the world with Morse code.
-* I'm pretty geeky: I run Linux NixOS (deterministic configs for the win!) on my personal machine and have a Kubernetes Homelab with 7 PIs and 1 PC. 
+* I'm a huge Linux desktop fan and have been using it as my daily driver since 1998. Redhat 5.2 (1998) -> Slackware -> Gentoo -> Ubuntu -> Manjaro -> NixOS
+* I have a Kubernetes Homelab with 7 Raspberry Pis and 1 PC.
 * I'm quite informal yet professional. I can be overly silly/quirky and I'm working on toning that down.
 * I'm a huge music buff and I have something playing all the time. My favorite stuff is usually Melodic Trance, Progressive House and Cocktail/Louge Jazz.
 
